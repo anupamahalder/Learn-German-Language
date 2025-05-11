@@ -2,14 +2,14 @@ import { NavLink } from "react-router-dom";
 
 export const Headers = () =>{
     return <header>
-        <div className="container p-2">
-            <div className="grid navbar-grid bg-green-500 p-8">
+        <div className="container p-2 center">
+            <div className="flex items-end md:items-center bg-yellow-500 p-8">
                 <div className="Logo">
                     <NavLink to="/">
                         <h1>Learn German Language</h1>
                     </NavLink>
                 </div>
-                <div>
+                <div className="flex-1">
                     <nav className="flex">
                         <li>
                             <NavLink to="/">Home</NavLink>

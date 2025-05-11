@@ -1,0 +1,377 @@
+[
+    {
+        "categories": "Food",
+        "words" :[
+                {
+                    "id": 1,
+                    "article": "der",
+                    "singular": "Apfel",
+                    "plural": "Äpfel",
+                    "meanings": {
+                        "english": "apple",
+                        "bengali": "আপেল"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "AH-pfel",
+                            "bengali_script": "আপ্-ফেল"
+                        },
+                        "plural": {
+                            "english_script": "EP-fel",
+                            "bengali_script": "এপ্-ফেল"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+                    "sentence": {
+                        "german": "Ich esse einen Apfel.",
+                        "english": "I am eating an apple.",
+                        "bengali": "আমি একটি আপেল খাচ্ছি।"
+                    }
+                },
+                {
+                    "id": 2,
+                    "article": "die",
+                    "singular": "Banane",
+                    "plural": "Bananen",
+                    "meanings": {
+                        "english": "banana",
+                        "bengali": "কলা"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "Bah-nah-neh",
+                            "bengali_script": "বা-না-নে"
+                        },
+                        "plural": {
+                            "english_script": "Bah-nah-nen",
+                            "bengali_script": "বা-না-নে"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Banana-Single.jpg",
+                    "sentence": {
+                        "german": "Ich esse eine Banane.",
+                        "english": "I am eating a banana.",
+                        "bengali": "আমি একটি কলা খাচ্ছি।"
+                    }
+                },
+                {
+                    "id": 3,
+                    "article": "die",
+                    "singular": "Karotte",
+                    "plural": "Karotten",
+                    "meanings": {
+                        "english": "carrot",
+                        "bengali": "গাজর"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "Ka-rot-te",
+                            "bengali_script": "কা-রট-তে"
+                        },
+                        "plural": {
+                            "english_script": "Ka-rot-ten",
+                            "bengali_script": "কা-রট-তেন"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Carrot_And_Sliced_Carrot.jpg",
+                    "sentence": {
+                        "german": "Ich esse eine Karotte.",
+                        "english": "I am eating a carrot.",
+                        "bengali": "আমি একটি গাজর খাচ্ছি।"
+                    }
+                },
+                {
+                    "id": 4,
+                    "article": "die",
+                    "singular": "Tomate",
+                    "plural": "Tomaten",
+                    "meanings": {
+                        "english": "tomato",
+                        "bengali": "টমেটো"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "To-ma-te",
+                            "bengali_script": "টো-মে-টে"
+                        },
+                        "plural": {
+                            "english_script": "To-ma-ten",
+                            "bengali_script": "টো-মে-তেন"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tomato_je.jpg",
+                    "sentence": {
+                        "german": "Ich esse eine Tomate.",
+                        "english": "I am eating a tomato.",
+                        "bengali": "আমি একটি টমেটো খাচ্ছি।"
+                    }
+                },
+                {
+                    "id": 5,
+                    "article": "die",
+                    "singular": "Kartoffel",
+                    "plural": "Kartoffeln",
+                    "meanings": {
+                        "english": "potato",
+                        "bengali": "আলু"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "Kar-toff-el",
+                            "bengali_script": "কা-রট-ফেল"
+                        },
+                        "plural": {
+                            "english_script": "Kar-toff-eln",
+                            "bengali_script": "কা-রট-ফেল-ন"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Potatoes_01.jpg",
+                    "sentence": {
+                        "german": "Ich esse eine Kartoffel.",
+                        "english": "I am eating a potato.",
+                        "bengali": "আমি একটি আলু খাচ্ছি।"
+                    }
+                },
+                {
+                    "id": 6,
+                    "article": "das",
+                    "singular": "Brot",
+                    "plural": "Brote",
+                    "meanings": {
+                        "english": "bread",
+                        "bengali": "রুটি"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "Broht",
+                            "bengali_script": "ব্রোট"
+                        },
+                        "plural": {
+                            "english_script": "Broh-te",
+                            "bengali_script": "ব্রোট-এ"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Loaf_of_bread.jpg",
+                    "sentence": {
+                        "german": "Ich esse ein Brot.",
+                        "english": "I am eating bread.",
+                        "bengali": "আমি রুটি খাচ্ছি।"
+                    }
+                },
+                {
+                    "id": 7,
+                    "article": "die",
+                    "singular": "Milch",
+                    "plural": "Milch",
+                    "meanings": {
+                        "english": "milk",
+                        "bengali": "দুধ"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "Milsh",
+                            "bengali_script": "মিল্শ"
+                        },
+                        "plural": {
+                            "english_script": "Milsh",
+                            "bengali_script": "মিল্শ"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Milk_jug.jpg",
+                    "sentence": {
+                        "german": "Ich trinke Milch.",
+                        "english": "I am drinking milk.",
+                        "bengali": "আমি দুধ খাচ্ছি।"
+                    }
+                },
+                {
+                    "id": 8,
+                    "article": "der",
+                    "singular": "Käse",
+                    "plural": "Käse",
+                    "meanings": {
+                        "english": "cheese",
+                        "bengali": "পনির"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "Kay-ze",
+                            "bengali_script": "কেজে"
+                        },
+                        "plural": {
+                            "english_script": "Kay-ze",
+                            "bengali_script": "কেজে"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cheese_slices.jpg",
+                    "sentence": {
+                        "german": "Ich esse Käse.",
+                        "english": "I am eating cheese.",
+                        "bengali": "আমি পনির খাচ্ছি।"
+                    }
+                },
+                {
+                    "id": 9,
+                    "article": "der",
+                    "singular": "Fisch",
+                    "plural": "Fische",
+                    "meanings": {
+                        "english": "fish",
+                        "bengali": "মাছ"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "Fish",
+                            "bengali_script": "ফিশ"
+                        },
+                        "plural": {
+                            "english_script": "Fishe",
+                            "bengali_script": "ফিশে"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sea_bass_on_ice.jpg",
+                    "sentence": {
+                        "german": "Ich esse einen Fisch.",
+                        "english": "I am eating a fish.",
+                        "bengali": "আমি একটি মাছ খাচ্ছি।"
+                    }
+                },
+                {
+                    "id": 10,
+                    "article": "die",
+                    "singular": "Zwiebel",
+                    "plural": "Zwiebeln",
+                    "meanings": {
+                        "english": "onion",
+                        "bengali": "পিঁয়াজ"
+                    },
+                    "pronunciation": {
+                        "singular": {
+                            "english_script": "Zvee-bel",
+                            "bengali_script": "যী-বেল"
+                        },
+                        "plural": {
+                            "english_script": "Zvee-bel-n",
+                            "bengali_script": "যী-বেল-ন"
+                        }
+                    },
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Onion.jpg",
+                    "sentence": {
+                        "german": "Ich esse eine Zwiebel.",
+                        "english": "I am eating an onion.",
+                        "bengali": "আমি একটি পিঁয়াজ খাচ্ছি।"
+                    }
+                }
+        ]
+    },
+    {
+        "categories": "Animals",
+        "words": [
+            {
+                "id": 1,
+                "article": "der",
+                "singular": "Hund",
+                "plural": "Hunde",
+                "meanings": {
+                    "english": "dog",
+                    "bengali": "কুকুর"
+                },
+                "pronunciation": {
+                    "singular": {
+                        "english_script": "Hoond",
+                        "bengali_script": "হুন্ড"
+                    },
+                    "plural": {
+                        "english_script": "Hoond-eh",
+                        "bengali_script": "হুন্ডে"
+                    }
+                },
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
+                "sentence": {
+                    "german": "Der Hund bellt.",
+                    "english": "The dog is barking.",
+                    "bengali": "কুকুরটি ঘেউ ঘেউ করছে।"
+                }
+            },
+            {
+                "id": 2,
+                "article": "die",
+                "singular": "Katze",
+                "plural": "Katzen",
+                "meanings": {
+                    "english": "cat",
+                    "bengali": "বিড়াল"
+                },
+                "pronunciation": {
+                    "singular": {
+                        "english_script": "Ka-tze",
+                        "bengali_script": "কা-ছে"
+                    },
+                    "plural": {
+                        "english_script": "Katz-en",
+                        "bengali_script": "কা-ছেন"
+                    }
+                },
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
+                "sentence": {
+                    "german": "Die Katze schläft.",
+                    "english": "The cat is sleeping.",
+                    "bengali": "বিড়ালটি ঘুমাচ্ছে।"
+                }
+            }
+        ]
+    },
+    {
+        "categories": "Colors",
+        "words": [
+            {
+                "id": 1,
+                "article": "",
+                "singular": "rot",
+                "plural": "",
+                "meanings": {
+                    "english": "red",
+                    "bengali": "লাল"
+                },
+                "pronunciation": {
+                    "singular": {
+                        "english_script": "roht",
+                        "bengali_script": "রোট"
+                    },
+                    "plural": {}
+                },
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Red_square.svg",
+                "sentence": {
+                    "german": "Der Apfel ist rot.",
+                    "english": "The apple is red.",
+                    "bengali": "আপেলটি লাল।"
+                }
+            },
+            {
+                "id": 2,
+                "article": "",
+                "singular": "blau",
+                "plural": "",
+                "meanings": {
+                    "english": "blue",
+                    "bengali": "নীল"
+                },
+                "pronunciation": {
+                    "singular": {
+                        "english_script": "blau",
+                        "bengali_script": "ব্লাউ"
+                    },
+                    "plural": {}
+                },
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Blue.svg",
+                "sentence": {
+                    "german": "Der Himmel ist blau.",
+                    "english": "The sky is blue.",
+                    "bengali": "আকাশটি নীল।"
+                }
+            }
+        ]
+    }
+]
+      
+  
